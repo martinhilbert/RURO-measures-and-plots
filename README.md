@@ -12,5 +12,6 @@ We are thankful for the help and guidance of dit's author, Ryan James (https://g
 It has been used in several studies, including:
 
 * Hilbert M, James RG, Gil-Lopez T, Jiang K, Zhou Y. The Complementary Importance of Static Structure and Temporal Dynamics in Teamwork Communication. Hum Commun Res. 2018;44(4):427–448. doi:10.1093/hcr/hqy008
-* Hilbert M, Darmon D. Dumb and Predictable Bots Make Largescale Communication More Complex and Unpredictable. Rochester, NY: Social Science Research Network; 2019. https://papers.ssrn.com/abstract=3464833. Accessed November 6, 2019.
-* ...
+* Hilbert, M., & Darmon, D. (2020a). Largescale Communication Is More Complex and Unpredictable with Automated Bots. Journal of Communication, 70(5).
+* Hilbert, M., & Darmon, D. (2020b). How Complexity and Uncertainty Grew with Algorithmic Trading. Entropy, 22(5), 499. https://doi.org/10.3390/e22050499
+
